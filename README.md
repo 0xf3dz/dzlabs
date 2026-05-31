@@ -1,5 +1,3 @@
-# DZ Labs
-
 A series of tools I built to improve my QoL, purposefully kept free, without ads and open to the public.
 
 ## Live sites
